@@ -1,0 +1,26 @@
+.app{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-button{
+    width:40%;
+    background-color: blue;
+    color:white;
+    padding:10px;
+    font-size:15px;
+    border-radius:3px;
+    border:1px solid blue;
+    cursor:pointer;
+    margin: auto;
+    margin-bottom:10px;
+}
+
+.courses{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
