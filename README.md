@@ -1,9 +1,9 @@
-You need vite(actually optional) and react to run this app
+You need vite and react to run this app
 
 <br>
 
-It's a react project, so you need "react" to examine it
-Start the app after you installed requirements by simply running the code below
+It's a react project, so you need "react" to examine it <br>
+Start the app after you installed requirements by simply running the code below <br>
 Ensure that you are in the folder including "package.json" file
 
 <br>
